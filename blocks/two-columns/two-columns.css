@@ -1,0 +1,8 @@
+.two-columns {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 100px;
+  width: 80%;
+  min-width: 784px;
+  justify-content: space-between;
+}
