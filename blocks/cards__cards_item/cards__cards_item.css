@@ -1,0 +1,5 @@
+.cards__cards_item {
+  margin-right: 100px;
+  width: calc(33% - 100px);
+}
+
