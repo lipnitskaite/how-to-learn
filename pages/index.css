@@ -28,6 +28,11 @@
 @import url(../blocks/cards/__item/__title/cards__title.css);
 @import url(../blocks/cards/__item/__description/cards__description.css);
 
+/* Video Section */
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+
 /* Feynman Section */
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
