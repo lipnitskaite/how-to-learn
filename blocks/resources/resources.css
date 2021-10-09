@@ -1,0 +1,7 @@
+.resources {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 100px 0 217px 0;
+  align-items: center;
+  justify-content: center;
+}
