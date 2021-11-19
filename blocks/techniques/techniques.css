@@ -1,9 +1,16 @@
 .techniques {
+  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   padding-top: 100px;
   align-items: center;
   justify-content: center;
   width: 80%;
-  margin: auto;
+}
+
+@media screen and (max-width: 1023px) {
+  .techniques {
+    width: 100%;
+    max-width: 1023px;
+  }
 }
