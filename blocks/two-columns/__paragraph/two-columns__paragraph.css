@@ -9,3 +9,11 @@
 .two-columns__paragraph:last-of-type {
   padding-bottom: 0;
 }
+
+
+@media screen and (max-width: 1279px) {
+  .two-columns__paragraph {
+    font-size: 20px;
+  }
+}
+

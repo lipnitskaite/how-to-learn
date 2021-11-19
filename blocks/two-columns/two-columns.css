@@ -5,3 +5,18 @@
   min-width: 784px;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1279px) {
+  .two-columns {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .two-columns {
+    min-width: 768px;
+    max-width: 1023px;
+    width: 100%;
+    flex-direction: column;
+  }
+}
