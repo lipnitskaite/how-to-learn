@@ -1,12 +1,20 @@
 .video__iframe {
   width: 515px;
   height: 316px;
-  margin-right: 20px;
   border: none;
 }
 
-.video__iframe:last-of-type {
-  margin-right: 0;
+@media screen and (max-width: 1279px) {
+  .video__iframe {
+    width: 440px;
+    height: 248px;
+  }
 }
 
+@media screen and (max-width: 1023px) {
+  .video__iframe {
+    width: 465px;
+    height: 280px;
+  }
+}
 
