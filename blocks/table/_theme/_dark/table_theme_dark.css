@@ -1,0 +1,5 @@
+.table_theme_dark {
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 80px 20px;
+}
+
