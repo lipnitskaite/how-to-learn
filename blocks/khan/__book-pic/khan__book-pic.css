@@ -6,3 +6,11 @@
   margin-right: 48px;
 }
 
+@media screen and (max-width: 1279px) {
+  .khan__book-pic {
+    width: 570px;
+    height: 560px;
+  }
+}
+
+
