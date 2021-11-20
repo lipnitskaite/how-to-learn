@@ -8,3 +8,9 @@
   font-size: 120px;
   font-weight: bold;
 }
+
+@media screen and (max-width: 1279px) {
+  .feynman__title {
+    font-size: 100px;
+  }
+}
