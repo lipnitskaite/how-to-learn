@@ -11,5 +11,6 @@
 @media screen and (max-width: 1023px) {
   .techniques {
     width: 90%;
+    padding-top: 80px;
   }
 }
