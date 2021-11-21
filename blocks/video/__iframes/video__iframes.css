@@ -5,7 +5,18 @@
   grid-column-gap: 20px;
   align-items: center;
   justify-content: center;
+  justify-items: center;
   margin: 0 0 -60px 0;
   z-index: 1;
+}
+
+@media screen and (max-width: 1023px) {
+  .video__iframes {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0 40px;
+    grid-template-columns: 1fr;
+    grid-row-gap: 20px;
+  }
 }
 
