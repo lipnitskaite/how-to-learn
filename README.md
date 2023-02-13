@@ -1,14 +1,30 @@
-# Проект: Научиться учиться
+# Learning how to learn
 
-## Интро
-Лендинг для Яндекс.Практикум. Одностраничный сайт с описанием современных методик обучения.
+<img width="1597" alt="Main page screenshot" src="https://user-images.githubusercontent.com/88855419/218439624-4337bd9d-d49e-4e05-9133-22670051916f.png">
+<img width="1597" alt="Main page screenshot (2)" src="https://user-images.githubusercontent.com/88855419/218439628-bd73ae04-07df-4ab6-be57-e59ba08caa4c.png">
 
-## Используемые технологии:
-* Стек: HTML & CSS
-* Методология: БЭМ
 
-## Статус проекта
-В процессе.
-### Планы по доработке:
-* Реализовать сетку с помощью grid
-* Сделать сайт адаптивным для всех устройств
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Techs](#techs)
+
+## Project Description
+
+It is a first project for the Yandex Practicum Web development course about modern learning techniques.<br>
+It allowed me to practice Flexbox Layout, positioning and animation properties.<br>
+
+### Status
+
+Finished
+
+
+## Techs
+
+### Stack
+
+HTML5 & CSS3<br>
+
+### Methodology
+
+BEM<br>
