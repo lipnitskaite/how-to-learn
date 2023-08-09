@@ -1,8 +1,6 @@
-# Learning how to learn
+# Learn how to learn
 
-<img width="1597" alt="Main page screenshot" src="https://user-images.githubusercontent.com/88855419/218439624-4337bd9d-d49e-4e05-9133-22670051916f.png">
-<img width="1597" alt="Main page screenshot (2)" src="https://user-images.githubusercontent.com/88855419/218439628-bd73ae04-07df-4ab6-be57-e59ba08caa4c.png">
-
+https://github.com/lipnitskaite/how-to-learn/assets/88855419/b2b2403a-fa94-4cdf-8b65-ac6412423545
 
 ## Table of Contents
 
@@ -17,7 +15,6 @@ It allowed me to practice Flexbox Layout, positioning and animation properties.<
 ### Status
 
 Finished
-
 
 ## Techs
 
