@@ -12,6 +12,9 @@ https://github.com/lipnitskaite/how-to-learn/assets/88855419/b2b2403a-fa94-4cdf-
 It is a first project for the Yandex Practicum Web development course about modern learning techniques.<br>
 It allowed me to practice Flexbox Layout, positioning and animation properties.<br>
 
+### Demo
+https://lipnitskaite.github.io/how-to-learn/
+
 ### Status
 
 Finished
